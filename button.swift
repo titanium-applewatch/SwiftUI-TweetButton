@@ -6,5 +6,5 @@ Button(action: {
     let impactMed = UIImpactFeedbackGenerator(style: .medium)
     impactMed.impactOccurred()
 }) {
-    text("Tweet")
+    Text("Tweet")
 }
